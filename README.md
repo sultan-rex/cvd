@@ -1,6 +1,6 @@
 ## Software requirement
 
->=php5
+=>php5
 mysql
 
 ## Database configuration
