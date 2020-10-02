@@ -1,0 +1,11 @@
+Options -Indexes
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^([\w\d~%.:_\-]+)$ index.php?page=$1 [NC]
+#RewriteRule ^/?([a-zA-Z_]+)$ index.php?page=%{REQUEST_URI} [QSA]
+
+
+
