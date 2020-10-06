@@ -1,7 +1,7 @@
 ## Software requirement
 
-=>php5
-mysql
+>php7
+>mysql
 
 ## Database configuration
 
