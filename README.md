@@ -2,6 +2,7 @@
 
 >php7
 >mysql
+>composer
 
 ## Database configuration
 
